@@ -1,5 +1,7 @@
 # Road to SRE
 
+### DISCLAIMER: This repo is under construcción and will be periodically updated.
+
 ## Introduction to Site Reliability Engineering (SRE) Course
 
 Welcome to our Site Reliability Engineering (SRE) course! In this course, we will delve into the fascinating world of SRE, exploring its principles, practices, and real-world applications. Whether you're an aspiring SRE professional, a software engineer looking to enhance your skills, or a technology enthusiast curious about how leading companies ensure the reliability and scalability of their services, this course is designed for you.
